@@ -1,0 +1,50 @@
+[
+    {
+        "boite": 2,
+        "dosage": 500,
+        "id": 1,
+        "matin": 1,
+        "midi": 1,
+        "nom": "Paracétamol",
+        "seuil": 10,
+        "soir": 0,
+        "stock": 5,
+        "type": 2
+    },
+    {
+        "boite": 1,
+        "dosage": 500,
+        "id": 2,
+        "matin": 0,
+        "midi": 1,
+        "nom": "Amoxicilline",
+        "seuil": 10,
+        "soir": 1,
+        "stock": 8,
+        "type": 1
+    },
+    {
+        "boite": 3,
+        "dosage": 400,
+        "id": 3,
+        "matin": 1,
+        "midi": 0,
+        "nom": "Ibuprofène",
+        "seuil": 10,
+        "soir": 1,
+        "stock": 20,
+        "type": 2
+    },
+    {
+        "boite": 1,
+        "dosage": 500,
+        "id": 4,
+        "matin": 1,
+        "midi": 0,
+        "nom": "cocojumbo",
+        "seuil": 10,
+        "soir": 0,
+        "stock": 7,
+        "type": 1
+    }
+]
